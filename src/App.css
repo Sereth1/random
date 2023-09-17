@@ -1,0 +1,62 @@
+body {
+  font-family: "Arial", sans-serif;
+  background-color: #2b2a2a;
+  margin: 0;
+  padding: 0;
+}
+
+h1 {
+  text-align: center;
+  margin-top: 50px;
+  color: #333;
+}
+
+.Button1 {
+  display: inline-block;
+  padding: 10px 20px;
+  margin: 10px;
+  border: none;
+  border-radius: 5px;
+  background-color: #007bff;
+  color: #fff;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.Button1:hover {
+  background-color: #0056b3;
+}
+
+.Forma {
+  width: 300px;
+  margin: 20px auto;
+  padding: 40px;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  background-color: #6fed97;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.Forma input[type="text"],
+.Forma input[type="number"] {
+  width: 90%;
+  padding: 10px;
+  margin: 10px 0;
+  border: 2px solid #ffffff;
+  border-radius: 5px;
+}
+
+.Forma button {
+  width: 100%;
+  padding: 10px;
+  border: none;
+  border-radius: 5px;
+  background-color: #007bff;
+  color: #fff;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.Forma button:hover {
+  background-color: #0056b3;
+}

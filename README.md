@@ -1,8 +1,12 @@
-# React + Vite
+Simple Exchange Calculator
+Overview
+This project is a simple and intuitive exchange rate calculator that converts Euro to various currencies. It is built with React.js for a dynamic user interface and Vite for an efficient, fast build tooling experience.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Features
+Currency Selection: Users can choose from different currency options, including Polish Złoty (PLN), Indian Rupee (INR), and US Dollar (USD).
+Instant Calculation: The calculator updates the conversion in real time as the user types in the amount.
+Reset Functionality: With a simple click, users can reset the amount to the default value.
+User-friendly Interface: A clean and straightforward layout designed for ease of use.
+Built With
+React.js - A JavaScript library for building user interfaces.
+Vite - A build tool that aims to provide a faster and leaner development experience for modern web projects.

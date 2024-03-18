@@ -10,3 +10,6 @@ User-friendly Interface: A clean and straightforward layout designed for ease of
 Built With
 React.js - A JavaScript library for building user interfaces.
 Vite - A build tool that aims to provide a faster and leaner development experience for modern web projects.
+
+
+![image](https://github.com/Sereth1/exchange-rate/assets/129552184/4a429e1e-60d6-4d18-89ae-d34f3ec280fe)
